@@ -14,4 +14,5 @@ O diferencial da empresa é a capacidade de processar contas hospitalares em lar
 
 ## Sobre o projeto
 Nosso cliente atualmente tem um gargalo de custos com participações em eventos nacionais e internacionais, visando novas referências, consolidação de conhecimento e ampliação de networking. Sua solicitação foi de um mapeamento dos próximos eventos, para selecionar racionalmente em quais a participação será mais recompensadora. 
+
 Planejamos fazer uma análise automatizada, com todas as convenções que aconteceram naquele ano, com uma descrição detalhada já informando se compensa a participação e todos os seus gastos.
