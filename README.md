@@ -17,7 +17,7 @@ O diferencial da empresa está na capacidade de processar contas hospitalares em
 
 ---
 
-## Sobre o projeto
+:mag_right: ## Sobre o projeto
 
 Atualmente, nosso cliente possui um gargalo relacionado aos custos de participação em **eventos nacionais e internacionais**.
 
