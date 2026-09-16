@@ -12,7 +12,10 @@ O diferencial da empresa está na capacidade de processar contas hospitalares em
 
 ### Informações da empresa
 
-**Nome da empresa:** Arvo **Responsável:** Rafael Tinoco  **E-mail:** rafael@arvo.com.br **Telefone:** (11) 98194-2781
+**Nome da empresa:** Arvo 
+**Responsável:** Rafael Tinoco  
+**E-mail:** rafael@arvo.com.br 
+**Telefone:** (11) 98194-2781
 
 ---
 
