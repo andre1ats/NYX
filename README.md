@@ -28,9 +28,9 @@ A participação nesses eventos tem como objetivos:
 - Ampliar o networking;
 - Avaliar a relevância dos eventos para a empresa.
 
-Diante desse cenário, foi solicitada a realização de um **mapeamento dos próximos eventos**, permitindo analisar de forma estruturada quais participações podem ser mais recompensadoras para o cliente.
+Diante desse cenário, nos foi solicitado a realização de um **mapeamento dos próximos eventos**, permitindo analisar de forma estruturada quais participações podem ser mais recompensadoras para o cliente.
 
-O projeto propõe uma análise automatizada das convenções que aconteceram ou acontecerão naquele ano, apresentando uma descrição detalhada de cada evento e indicando as informações necessárias para avaliar a participação e seus respectivos gastos.
+O projeto propõe uma análise automatizada das convenções que acontecerão naquele ano, apresentando uma descrição detalhada de cada evento e indicando as informações necessárias para avaliar a participação e seus respectivos gastos.
 
 ---
 
