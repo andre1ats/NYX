@@ -120,7 +120,7 @@ O projeto busca proporcionar:
 
 ---
 
-##  file_folder Diagrama do Processo
+##  :file_folder: Diagrama do Processo
 
 O processo do projeto pode ser representado visualmente por meio de um diagrama, demonstrando as etapas de levantamento, organização, análise automatizada e avaliação dos eventos.
 
