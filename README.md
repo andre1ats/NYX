@@ -124,8 +124,6 @@ O projeto busca proporcionar:
 
 O processo do projeto pode ser representado visualmente por meio de um diagrama, demonstrando as etapas de levantamento, organização, análise automatizada e avaliação dos eventos.
 
-> O diagrama poderá ser disponibilizado neste repositório conforme o desenvolvimento do projeto.
-
 ---
 
 ##  :page_facing_up:  Estrutura do Projeto
