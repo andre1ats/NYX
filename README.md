@@ -34,7 +34,7 @@ O projeto propõe uma análise automatizada das convenções que aconteceram ou 
 
 ---
 
-## Objetivos
+## :pushpin: Objetivos
 
 O projeto tem como principais objetivos:
 
@@ -49,7 +49,7 @@ O projeto tem como principais objetivos:
 
 ---
 
-## Escopo do Projeto
+##  Escopo do Projeto
 
 O projeto contempla o levantamento e a análise dos eventos considerados relevantes para o cliente.
 
@@ -85,49 +85,7 @@ Após o levantamento e a análise das informações, os dados serão utilizados 
 
 ---
 
-## Informações analisadas
-
-A análise dos eventos deverá apresentar uma descrição detalhada das convenções consideradas no levantamento.
-
-Entre as informações relevantes para a análise estão:
-
-- Identificação do evento;
-- Informações sobre a convenção;
-- Contexto do evento;
-- Relevância para o objetivo do cliente;
-- Possibilidade de obtenção de novas referências;
-- Possibilidade de consolidação de conhecimento;
-- Possibilidade de ampliação de networking;
-- Gastos relacionados à participação;
-- Avaliação da compensação da participação.
-
----
-
-## Fluxo do Projeto
-
-O fluxo geral do projeto pode ser representado da seguinte maneira:
-
-1. **Mapeamento dos eventos**
-   - Levantamento das próximas convenções.
-
-2. **Organização das informações**
-   - Reunião e estruturação dos dados encontrados.
-
-3. **Análise automatizada**
-   - Processamento das informações dos eventos.
-
-4. **Descrição dos eventos**
-   - Apresentação detalhada das convenções analisadas.
-
-5. **Análise de participação**
-   - Avaliação dos benefícios e dos gastos relacionados.
-
-6. **Resultado da análise**
-   - Informações organizadas para auxiliar o cliente na avaliação dos eventos.
-
----
-
-## Critérios de análise
+## :mag_right: Critérios de análise
 
 A análise será estruturada considerando os objetivos apresentados pelo cliente.
 
@@ -141,7 +99,7 @@ Os principais pontos considerados são:
 
 ---
 
-## Resultado Esperado
+## :white_check_mark: Resultado Esperado
 
 Ao final do processo, espera-se obter um **mapeamento estruturado dos eventos**, acompanhado de uma descrição detalhada das convenções analisadas.
 
@@ -151,21 +109,18 @@ Dessa forma, o projeto busca facilitar a análise das próximas convenções e f
 
 ---
 
-## Benefícios do Projeto
+##  :chart_with_upwards_trend: Benefícios do Projeto
 
 O projeto busca proporcionar:
 
 - Maior organização das informações sobre os eventos;
 - Automatização do processo de análise;
 - Facilidade na consulta das convenções;
-- Visualização estruturada dos gastos;
-- Maior clareza na avaliação das participações;
-- Apoio à análise de eventos nacionais e internacionais;
-- Centralização das informações necessárias para a avaliação dos eventos.
+- Visualização estruturada dos gastos.
 
 ---
 
-## Diagrama do Processo
+##  file_folder Diagrama do Processo
 
 O processo do projeto pode ser representado visualmente por meio de um diagrama, demonstrando as etapas de levantamento, organização, análise automatizada e avaliação dos eventos.
 
@@ -173,7 +128,7 @@ O processo do projeto pode ser representado visualmente por meio de um diagrama,
 
 ---
 
-## Estrutura do Projeto
+##  :page_facing_up:  Estrutura do Projeto
 
 A documentação deste repositório tem como finalidade apresentar o escopo e o funcionamento do projeto desenvolvido para a Arvo, incluindo o contexto da demanda, seus objetivos, etapas de análise e resultados esperados.
 
